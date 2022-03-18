@@ -159,6 +159,10 @@ p {
   color: #000066;
 }
 
+.dato-1{
+  margin-left: 1rem;
+}
+
 .dato1{
   margin-left: 1rem;
   margin-right: 7rem;
@@ -190,6 +194,9 @@ p {
 .boton1{
   margin-left: 3rem;
   box-shadow: rgba(190, 208, 243, 0.1) 0px 20px 25px -5px, rgba(213, 222, 250, 0.04) 0px 10px 10px -5px;
+}
+.botonCall{
+  margin-left: 2px;
 }
 
 .vlogo{
